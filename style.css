@@ -1,0 +1,47 @@
+header  {
+    background-color: rgb(240, 4, 4);
+    color:blue;
+    padding: 15px;
+    font-size: 30px;
+}
+ .foto {
+    margin: 5% ;
+    background-color: brown ;
+    padding: 20px;
+
+ }
+ #Quienes {
+    color:blue;
+ font-size: 25px;    
+ }
+ p {
+    color:red;
+    font-size: 20px;
+ }
+ #Antecedentes {
+    color:blue;
+    font-size: 25px;
+ }
+ #Peliculas {
+    color:blue;
+    font-size: 25px;
+ }
+ .foto1 {
+    margin: 5% ;
+    background-color: brown ;
+    padding: 20px;
+
+ }
+ .foto2 {
+    margin: 5% ;
+    background-color: brown ;
+    padding: 20px;
+
+ } 
+ *{
+    text-align: center;
+ }
+li {
+    display: inline;
+}
+ 
